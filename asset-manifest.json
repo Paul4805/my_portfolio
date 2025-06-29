@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.e6f5c6f1.css",
+    "main.js": "/my_portfolio/static/js/main.7da51023.js",
+    "static/js/453.438d9e50.chunk.js": "/my_portfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/profile.jpeg": "/my_portfolio/static/media/profile.c1326639a0b48706d7a9.jpeg",
+    "static/media/instagram.png": "/my_portfolio/static/media/instagram.3728334e7820f482f385.png",
+    "static/media/tailwind.png": "/my_portfolio/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/linkedin.png": "/my_portfolio/static/media/linkedin.e26738ace74d47b1ca16.png",
+    "static/media/x.png": "/my_portfolio/static/media/x.40114458aa572bbaf411.png",
+    "static/media/scikit.png": "/my_portfolio/static/media/scikit.b475a721594f9fd32863.png",
+    "static/media/TensorFlow.png": "/my_portfolio/static/media/TensorFlow.c444951c9efe6ed2177b.png",
+    "static/media/react.png": "/my_portfolio/static/media/react.1ce7b597e7ddb0fccde3.png",
+    "static/media/javascript.png": "/my_portfolio/static/media/javascript.166865dacb77d214f485.png",
+    "static/media/css.png": "/my_portfolio/static/media/css.1ea2714ae467e3c9c59c.png",
+    "static/media/sql.png": "/my_portfolio/static/media/sql.8c53f46599d600c84b79.png",
+    "static/media/aws.png": "/my_portfolio/static/media/aws.a59d5ca6b3b99d8d7b61.png",
+    "index.html": "/my_portfolio/index.html",
+    "main.e6f5c6f1.css.map": "/my_portfolio/static/css/main.e6f5c6f1.css.map",
+    "main.7da51023.js.map": "/my_portfolio/static/js/main.7da51023.js.map",
+    "453.438d9e50.chunk.js.map": "/my_portfolio/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f5c6f1.css",
+    "static/js/main.7da51023.js"
+  ]
+}
